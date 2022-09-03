@@ -1,0 +1,23 @@
+*https://tecnoblog.net/noticias/2022/06/21/google-maps-e-investigado-por-dificultar-integracao-com-apps-de-terceiros/.
+
+Google Maps com problemas de compatibilidade com app terceiros."Reguladores da Alemanha vão investigar se Google dificulta a integração do Maps em serviços de terceiros para prejudicar a concorrência".O órgão regulador quer descobrir se a Alphabet, controladora do Google, está prejudicando outros mapas online ao dificultar a integração do Maps em aplicativos de terceiros.“temos informações que sugerem que o Google pode estar restringindo a integração de seu próprio serviço de mapas em aplicativos de mapas de terceiros.”
+
+Ele também explicou que o Google Maps parece dificultar a incorporação de seus dados de localização, função de pesquisa e do Google Street View em aplicativos e plataformas que não pertencem ao Google. Dessa maneira, o usuário recorreria mais vezes aos serviços próprios da Alphabet, o que, segundo a lei alemã, é uma prática “anticompetitiva”.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+https://diariodotransporte.com.br/2021/11/17/parceria-do-setrerj-com-o-moovit-leva-exibicao-de-horarios-dos-onibus-em-tempo-real-para-niteroi/.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+https://g1.globo.com/tecnologia/noticia/2022/06/21/waze-usuarios-relatam-instabilidade-no-aplicativo-nesta-terca-feira.ghtml.
+
+Plataforma Waze passou por problemas de instabilidades na localização e busca de rotas e procuras por trajetos. Problema possivelmente causado por problemas no GPS, porém vários outros problemas podem ter ocassionado no erro com uma manutenção errada, falha no update até instabilidade no sistema ou falha resídual.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+https://valorinveste.globo.com/mercados/renda-variavel/empresas/noticia/2022/06/27/uber-e-99-terao-que-explicar-cancelamentos-de-viagens-a-justica.ghtml.
+
+Uber e 99 terão que explicar cancelamentos de viagens à Justiça ... A Senacon, órgão do Ministério da Justiça, informou que foram identificados problemas como cobranças indevidas, dificuldades no reembolso e não fornecimento de serviço.
+
+Após passageiros reclamarem de constantes cancelamentos de viagens e da cobrança de altos valores, empresas de transporte por aplicativo como Uber e 99 foram acionadas pela Secretaria Nacional do Consumidor (Senacon) do Ministério da Justiça e Segurança Pública.

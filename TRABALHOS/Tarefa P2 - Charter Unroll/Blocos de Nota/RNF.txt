@@ -1,0 +1,14 @@
+Requisito não funcional:
+
+(RNF - 01) Sistema deverá ser desenvolvido para Desktop (Arq. Web), seguindo o padrão W3C, sistema 24 Horas e 7 dias por semana (Todo Momento) e utilizando banco de dados não relacional.
+
+*  Sistema Comercial - Não funcionam a todo momento 
+
+//////////////////////////////////////////////////////////////////
+(RF - 02) - Regras de Negócio 
+"NÃO SEJA CRITERIOSO PORRA"
+
+Usuário deverá atualizar a senha de acesso após 3 messes.
+Sistema deverá ser acessado por meio de Usuário e senha, ou por login no Facebook ou no Google, podendo fazer verificação de dois acessos.
+
+Sistemas Bancários ultilizam Biometria, ou digitando usuário e senha.

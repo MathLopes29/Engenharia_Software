@@ -1,0 +1,11 @@
+(RF 01) - Usuário
+(Informações sobre o que deve estar nos itens do sistema) 
+ 
+* "O sistema deverá permitir o cadastro do usuário por meio do INCLUD (Incluir, Alterar, Consultar e Excluir) os usuários. Os dados do cadastro são nome, CPF, sexo, idade, e-mail e PassWord, data de cadastro e aceite termo de uso".
+
+"Ler mais do que Questionar" - ou seja o profissional deve escrever de forma clara e simples para o entendimento.
+
+Ordem de Serviço - Quais campos serão afetados
+Respeite a LGPD!
+
+(RF-02) - Relatório de Vendas: O sistema permitirá filtro de vendas por período. Ele terá os seguintes dados: Código Nome, QTDE, Valor Unitário e Valor total de Vendas

@@ -1,0 +1,160 @@
+Dicas
+Pouco foco em uma linguagem específica e sim na lógica de programação.
+
+Conceitos Engenharia Software
+
+Base Computacional = Máquina de Turing
+
+Ciencia da Computação Curso:
+
+--Mais baixo nível.
+
+
+Tecnológo Curso:
+
+--Criar soluções mais alto nível.
+--Foco no desenvolvimento dos softwares com ferramentas prontas.
+
+
+Engenharia de Software:
+
+--Construção de software de alto nível.
+--Tudo o que é necessário para a produção de um software.
+--Programação: Parte da engenharia.
+--Pensar no software como um produto.
+
+
+Referências
+
+--Ian Sommerville 
+Pearson Education
+
+--Roger Pressman 
+6ª Edição McGraw-Hil
+
+-------------------------------------------------------------------------------
+Software:
+
+(Possível Questão de Prova)
+
+O que que é um software para a engenharia?
+
+--Prof Denise diz "Hardware a gente chuta, Software a gente chinga".
+--Algoritmos não são o todo e sim parte de algo maior.
+--Um programa é um conjunto de soluções algorítmicas, codificadas numa linguagem de   programação, executado numa máquina real.
+-- Para a engenharia o software não é apenas um código e sim o código e a documentação que o
+acompanha.
+-- O software é mais que um programa.
+
+--Produtos Genéricos:
+Software genérico que é usado da maneira como foi feita.
+
+--Produtos sobre encomenda:
+Software personalizado para um ambiente específico.
+
+------------------------------------------------------------------------------
+Características de um Software:
+
+Invisibilidade = Só é possível ver a interface. Sem ter acesso ao back-end. Não consegue ser visto além da interface.
+
+Complexidade = Sempre complexo. Não existe produto mais complexo que um Software. Impossível entregar um produto 100% completo.
+
+Mutabilidade = Pressão para sempre mudar o software de acordo com as necessidades do mercado.
+
+Conformidade = O software deve ser desenvolvido de acordo com o ambiente. Enteder a cultura e lógica de processo de négocio da empresa no desenvolvimento do software e ele deve atender estas particularidades.
+
+-------------------------------------------------------------------------------
+
+Bugs: Falhas resíduais e não erros.
+
+Falhas de Software
+
+Máquina de radioterapia com software controlador (1985 -87).
+O controle de segurança feito pelo hardware em máquinas anteriores foi removido e passou a ser feito pelo software.
+O software falhou na tarefa de, ao mesmo tempo, manter invariantes essenciais: o feixe de elétrons e o dispositivo que controla a concentração do feixe em níveis seguros.
+Diversas mortes em decorrência de queimaduras.O programador não tinha experiência em programação concorrente.
+
+Bastante responsabilidade na criação de softwares.
+
+------------------------------------------------------------------------------------
+Computação Pervasiva. Móvel e Ubíqua.
+
+--Desafios para a Indústria de Software.
+
+--Sistemas legados = Sistemas antigos, mas de extrema importância para uma organização e que funcionam bem.
+
+--Linguagens antigas.
+
+--Falta de pessoal.
+
+--Específico de plataformas obsoletas.
+
+--Heterogeneidade = Os sistemas são distribuídos e incluem diversidade dehardware e plataforma operacional.
+
+--Entrega = Existe sempre uma pressão forte para diminuir o tempo de entrega. 
+
+--------------------------------------------------------------------
+Extração de Requisitos
+
+Técnica Pieces :
+
+•P erformance: identifica as tarefas que o produto irá executar e então o tempo de resposta para cada tipo de tarefa (throughput).
+•I nformações e dados: identifica a qualidade e quantidade de informações as quais os clientes terão acesso.
+•E conomia: questões relacionadas à demanda.•C ontrole: questões relacionadas ao acesso às informações.
+•E ficiência: espécie de relação do tipo custo-benefício     visando minimizar desperdícios.
+•S erviços: os usuários respondem perguntas sobre que tipo de serviço eles precisam que oproduto realize.
+
+
+
+
+P1 dia 24 de junho
+Marcar um tira dúvidas sobre o questionário pré-prova
+
+
+
+
+
+7 - Descrição Funcional
+
+7.1 Técnicas para o levantamento de requisitos
+
+--Serão feitas em aula: 
+
+7.2 Especificação.
+7.2.1 Requisitos Funcionais. 
+7.2.2 Requisitos não Funcionais.
+7.2.3 Regras de Negócio.
+7.3 Diagrama de UserCase.
+7.3.1 Cenários Ótimo e Alternativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
