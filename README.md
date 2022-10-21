@@ -6,7 +6,7 @@
 
 <div align="center">
   <h2 align="center"> Conceitos do  1º Semestre </h2>
-  <p> Estudo sobre Requisitos Funcionais </p> 
+  <p> Requisitos Funcionais </p> 
   <p> Regras de Negócios </p>
   <p> Critérios do Sistema (RNF) </p> 
   <p> Stakeholders </p> 
