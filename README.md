@@ -1,7 +1,7 @@
 <h1 align="center"> Engenharia Software I </h1>
 
 <div align="center">
-  <a><img align="center" src="https://inforchannel.com.br/wp-content/uploads/2017/08/70b2ea99-qualidade-de-software-1024x587.jpg" height="500" weight="250" border="0" alt="UML"></a>
+  <a><img align="center" src="https://blog.stoodi.com.br/wp-content/uploads/2020/03/engenharia-de-software-1.jpg" height="500" weight="250" border="0" alt="UML"></a>
 </div>
 
 
